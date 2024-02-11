@@ -3,7 +3,7 @@
 
 This is a simple digital clock web application that displays the current time, date, and day.
 
-![output](.\output.png)
+![output](output.png)
 
 
 
