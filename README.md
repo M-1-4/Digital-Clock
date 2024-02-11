@@ -3,6 +3,11 @@
 
 This is a simple digital clock web application that displays the current time, date, and day.
 
+![output](.\output.png)
+
+
+
+
 ## Getting Started
 
 To get a copy of this project up and running on your local machine, follow these steps:
